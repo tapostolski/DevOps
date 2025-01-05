@@ -1,4 +1,4 @@
-package com.example.demoweb;
+package com.example;
 
 import java.util.concurrent.atomic.AtomicLong;
 
